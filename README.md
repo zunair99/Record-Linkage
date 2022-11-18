@@ -1,4 +1,4 @@
-# Record Linkage Exercise Using Pyspark# Record-Linkage
+# Record Linkage Exercise Using Pyspark
 
 ### This Exercise Analyzes Data from the UC Irvine Machine Learning Repository. Data was fetched from their database to analyze a record linkage study that was done on patients that were matched over various different features.
 
